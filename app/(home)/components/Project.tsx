@@ -10,14 +10,14 @@ export default function Project() {
         {
             title:"Whatsapp-Web Clone",
             tech:[SiChakraui, SiTailwindcss,TbBrandNextjs],
-            link: "https://github.com/arnabroy2000/analytics-dashboard",
+            link: "https://github.com/arnabroy2000/WhatsApp-Web-Clone-Using-Chakra",
             cover:"/whatsapp-Web.png",
             background:"bg-indigo-500"
         },
         {
             title:"Analytic Dashboard",
             tech:[SiTailwindcss,TbBrandNextjs,SiRedis],
-            link: "https://github.com/arnabroy2000/WhatsApp-Web-Clone-Using-Chakra",
+            link: "https://github.com/arnabroy2000/analytics-dashboard",
             cover:"/analytic-dashboard.png",
             background:"bg-green-500"
         },
