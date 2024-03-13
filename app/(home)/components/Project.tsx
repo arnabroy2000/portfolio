@@ -11,7 +11,7 @@ export default function Project() {
             title:"Whatsapp-Web Clone",
             tech:[SiChakraui, SiTailwindcss,TbBrandNextjs],
             link: "https://github.com/arnabroy2000/analytics-dashboard",
-            cover:"/whatsapp-web.png",
+            cover:"/whatsapp-Web.png",
             background:"bg-indigo-500"
         },
         {
